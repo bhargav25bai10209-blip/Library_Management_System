@@ -1,0 +1,58 @@
+[
+  {
+    "transactionId": "TX-15BB9C30",
+    "bookIsbn": "978-3333333333",
+    "bookTitle": "Book Three",
+    "memberId": "U-TST-001",
+    "memberName": "Limit Tester",
+    "issueDate": "2026-09-18",
+    "dueDate": "2026-10-02",
+    "returnDate": null,
+    "fineAmount": "0.0",
+    "finePaid": "false",
+    "status": "ISSUED",
+    "renewalCount": "0"
+  },
+  {
+    "transactionId": "TX-6F4E458A",
+    "bookIsbn": "978-0134685991",
+    "bookTitle": "Effective Java (3rd Edition)",
+    "memberId": "U-STU-001",
+    "memberName": "Aarav Sharma",
+    "issueDate": "2026-09-18",
+    "dueDate": "2026-10-02",
+    "returnDate": "2026-10-06",
+    "fineAmount": "20.0",
+    "finePaid": "false",
+    "status": "RETURNED_OVERDUE",
+    "renewalCount": "0"
+  },
+  {
+    "transactionId": "TX-5031E3DD",
+    "bookIsbn": "978-2222222222",
+    "bookTitle": "Book Two",
+    "memberId": "U-TST-001",
+    "memberName": "Limit Tester",
+    "issueDate": "2026-09-18",
+    "dueDate": "2026-10-02",
+    "returnDate": null,
+    "fineAmount": "0.0",
+    "finePaid": "false",
+    "status": "ISSUED",
+    "renewalCount": "0"
+  },
+  {
+    "transactionId": "TX-C72CD2DF",
+    "bookIsbn": "978-1111111111",
+    "bookTitle": "Book One",
+    "memberId": "U-TST-001",
+    "memberName": "Limit Tester",
+    "issueDate": "2026-09-18",
+    "dueDate": "2026-10-02",
+    "returnDate": "2026-09-18",
+    "fineAmount": "0.0",
+    "finePaid": "false",
+    "status": "RETURNED",
+    "renewalCount": "0"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "reservationId": "RES-94DB4AF1",
+    "bookIsbn": "978-9999999999",
+    "bookTitle": "Rare Manuscript",
+    "memberId": "U-FAC-001",
+    "memberName": "Prof. Vikram Reddy",
+    "priority": "1",
+    "requestDate": "2026-09-18T23:35:51.0085538",
+    "status": "PENDING",
+    "notificationDate": null
+  },
+  {
+    "reservationId": "RES-E1F9CA16",
+    "bookIsbn": "978-9999999999",
+    "bookTitle": "Rare Manuscript",
+    "memberId": "U-STU-001",
+    "memberName": "Aarav Sharma",
+    "priority": "2",
+    "requestDate": "2026-09-18T23:35:51.0058895",
+    "status": "PENDING",
+    "notificationDate": null
+  }
+]

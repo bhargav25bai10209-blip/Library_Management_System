@@ -1,0 +1,11 @@
+[
+  {
+    "receiptId": "RCP-36D04501",
+    "transactionId": "PAY-DIRECT",
+    "memberId": "U-STU-001",
+    "memberName": "Aarav Sharma",
+    "amountPaid": "20.0",
+    "paymentMethod": "UPI",
+    "paymentDate": "2026-09-18T23:35:51.0138307"
+  }
+]

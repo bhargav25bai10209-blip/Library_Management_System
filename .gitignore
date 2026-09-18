@@ -1,0 +1,17 @@
+# Compiled Bytecode
+bin/
+*.class
+
+# IDE & Editor files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Temporary & Lock Files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db

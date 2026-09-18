@@ -1,0 +1,167 @@
+[
+  {
+    "isbn": "978-1111111111",
+    "title": "Book One",
+    "author": "Test Author",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2021",
+    "totalCopies": "5",
+    "availableCopies": "5",
+    "rackLocation": "Rack-TEST",
+    "dateAdded": "2026-09-18T23:35:50.943428"
+  },
+  {
+    "isbn": "978-0131103627",
+    "title": "The C Programming Language",
+    "author": "Brian W. Kernighan & Dennis M. Ritchie",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "1988",
+    "totalCopies": "3",
+    "availableCopies": "3",
+    "rackLocation": "Rack-CS-103",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-9999999999",
+    "title": "Rare Manuscript",
+    "author": "Test Author",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2021",
+    "totalCopies": "5",
+    "availableCopies": "0",
+    "rackLocation": "Rack-TEST",
+    "dateAdded": "2026-09-18T23:35:51.0021856"
+  },
+  {
+    "isbn": "978-4444444444",
+    "title": "Book Four",
+    "author": "Test Author",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2021",
+    "totalCopies": "5",
+    "availableCopies": "5",
+    "rackLocation": "Rack-TEST",
+    "dateAdded": "2026-09-18T23:35:50.9518278"
+  },
+  {
+    "isbn": "978-0132350884",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "category": "SOFTWARE_ENGINEERING",
+    "publicationYear": "2008",
+    "totalCopies": "4",
+    "availableCopies": "4",
+    "rackLocation": "Rack-CS-102",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-0132143011",
+    "title": "Computer Systems: A Programmer's Perspective",
+    "author": "Randal E. Bryant & David R. O'Hallaron",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2015",
+    "totalCopies": "3",
+    "availableCopies": "3",
+    "rackLocation": "Rack-CS-205",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-3333333333",
+    "title": "Book Three",
+    "author": "Test Author",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2021",
+    "totalCopies": "5",
+    "availableCopies": "4",
+    "rackLocation": "Rack-TEST",
+    "dateAdded": "2026-09-18T23:35:50.9497619"
+  },
+  {
+    "isbn": "978-0596007126",
+    "title": "Head First Design Patterns",
+    "author": "Eric Freeman & Elisabeth Robson",
+    "category": "SOFTWARE_ENGINEERING",
+    "publicationYear": "2004",
+    "totalCopies": "5",
+    "availableCopies": "5",
+    "rackLocation": "Rack-CS-106",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-0672324536",
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz & Peter Baer Galvin",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2018",
+    "totalCopies": "4",
+    "availableCopies": "4",
+    "rackLocation": "Rack-CS-206",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-0262035613",
+    "title": "Deep Learning",
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "category": "ARTIFICIAL_INTELLIGENCE",
+    "publicationYear": "2016",
+    "totalCopies": "3",
+    "availableCopies": "3",
+    "rackLocation": "Rack-AI-301",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-0134685991",
+    "title": "Effective Java (3rd Edition)",
+    "author": "Joshua Bloch",
+    "category": "SOFTWARE_ENGINEERING",
+    "publicationYear": "2018",
+    "totalCopies": "5",
+    "availableCopies": "5",
+    "rackLocation": "Rack-CS-101",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-0321356680",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2008",
+    "totalCopies": "2",
+    "availableCopies": "2",
+    "rackLocation": "Rack-CS-104",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-2222222222",
+    "title": "Book Two",
+    "author": "Test Author",
+    "category": "COMPUTER_SCIENCE",
+    "publicationYear": "2021",
+    "totalCopies": "5",
+    "availableCopies": "4",
+    "rackLocation": "Rack-TEST",
+    "dateAdded": "2026-09-18T23:35:50.9487361"
+  },
+  {
+    "isbn": "978-0134494166",
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "category": "SOFTWARE_ENGINEERING",
+    "publicationYear": "2017",
+    "totalCopies": "4",
+    "availableCopies": "4",
+    "rackLocation": "Rack-CS-105",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  },
+  {
+    "isbn": "978-0262033848",
+    "title": "Introduction to Algorithms (CLRS 3rd Ed)",
+    "author": "Thomas H. Cormen",
+    "category": "DATA_STRUCTURES",
+    "publicationYear": "2009",
+    "totalCopies": "6",
+    "availableCopies": "6",
+    "rackLocation": "Rack-CS-201",
+    "dateAdded": "2026-09-18T23:35:50.7992106"
+  }
+]
